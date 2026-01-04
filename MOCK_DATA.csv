@@ -1,0 +1,501 @@
+Partner_ID,Partner_Name,Partner_Type,HQ_Country,Bank_Country,VAT_Number,Personal_Data_Access,DPA_Status,Storage_Region,Ethics_Charter,Last_Update,Account_Status
+1,Jabberbean,Raw Material Supplier,US,PL,RL92773631503,true,Missing,US,true,1/2/2024,Inactive
+2,Trunyx,Raw Material Supplier,PT,SY,MT97435011741,false,Missing,APAC,true,5/5/2024,Inactive
+3,Jaxnation,Influencer Agency,LV,RS,AN87287309835,false,Signed,US,false,2/21/2025,Active
+4,Pixonyx,Influencer Agency,BR,ID,ZW09635496470,false,Signed,EU,true,3/2/2024,Active
+5,Zoozzy,Influencer Agency,PL,SE,RX87240407999,false,Missing,APAC,false,5/24/2023,Active
+6,Wikivu,Retail Tech,ID,SE,RN09815264738,true,Pending,US,true,4/16/2023,Inactive
+7,Youspan,Packaging & Glass,ID,AL,RF33888018171,true,Pending,EU,true,1/31/2024,Inactive
+8,Podcat,Influencer Agency,TH,SE,FW45714533513,false,Pending,EU,true,2/1/2024,Active
+9,Voonte,Retail Tech,YE,FR,MC41140582095,true,Signed,US,true,2/16/2025,Inactive
+10,Jabberbean,CRO - Clinical Research,BO,PA,HB15808621591,true,Pending,EU,false,12/31/2024,Inactive
+11,Dynazzy,CRO - Clinical Research,MR,CN,RT51248687033,false,,US,false,6/25/2024,Inactive
+12,Realcube,CRO - Clinical Research,SE,FR,LJ94048112590,false,Signed,EU,false,7/4/2023,Active
+13,Lazzy,Retail Tech,CO,CN,VW38242216871,false,Signed,APAC,true,11/8/2023,Inactive
+14,Eire,Raw Material Supplier,CO,SE,IY09295175460,true,Missing,APAC,false,9/8/2025,Inactive
+15,Feedbug,Raw Material Supplier,PH,CN,MQ75880161960,true,,EU,true,5/11/2023,Active
+16,Oyonder,Retail Tech,ID,CN,BK73136949851,false,Missing,EU,false,9/5/2023,Active
+17,Tambee,Retail Tech,CN,US,AC37252111005,true,Missing,APAC,true,5/15/2025,Inactive
+18,Ntag,Raw Material Supplier,AF,CN,CM98550020715,true,Missing,US,true,6/30/2023,Active
+19,Vinder,Retail Tech,CN,CN,BD30877411450,false,,US,true,9/25/2024,Active
+20,Midel,Raw Material Supplier,CN,PK,RN85783673758,false,Pending,US,false,10/1/2023,Inactive
+21,Dablist,Packaging & Glass,ID,PL,YI99613249123,true,,US,false,11/1/2024,Active
+22,Babbleopia,Raw Material Supplier,SE,RU,RP66919940440,true,Missing,US,false,9/13/2024,Active
+23,Agivu,Influencer Agency,ZW,TZ,FE10459306734,false,Signed,EU,true,11/20/2023,Active
+24,Devbug,CRO - Clinical Research,PE,CN,YW85428926809,true,Missing,APAC,true,6/17/2025,Active
+25,Izio,Retail Tech,ID,MX,WH54851870463,true,Pending,US,false,5/25/2025,Active
+26,Zoomzone,Raw Material Supplier,DO,PT,BW73359848339,false,Signed,APAC,false,8/1/2025,Active
+27,Yata,Retail Tech,PE,AR,DJ25892923265,false,Signed,EU,false,6/21/2023,Active
+28,Jabberstorm,Packaging & Glass,CN,BO,UG98595599786,true,Missing,APAC,true,3/16/2024,Active
+29,Cogidoo,Retail Tech,FI,,CJ84686442075,true,Pending,APAC,false,7/16/2024,Active
+30,Leexo,Retail Tech,PL,PH,VM94410081641,true,Pending,EU,true,3/28/2025,Active
+31,Yakijo,CRO - Clinical Research,ID,AM,HC56082606771,false,Missing,APAC,false,9/4/2025,Active
+32,Kwinu,Packaging & Glass,UA,NA,NI67316117375,false,Missing,EU,false,10/18/2024,Inactive
+33,Demizz,Raw Material Supplier,TL,GT,AC21208150478,false,,APAC,false,6/13/2025,Inactive
+34,Topicshots,Packaging & Glass,NO,PE,AD15608236481,true,Signed,EU,true,3/11/2025,Active
+35,Oyoloo,Packaging & Glass,CN,IL,EI00253018991,false,Missing,US,true,6/7/2023,Active
+36,Omba,Packaging & Glass,CN,ID,ZZ82506861117,false,Missing,APAC,true,10/1/2024,Inactive
+37,Wikibox,Retail Tech,IE,PL,XR94080085217,false,Signed,US,true,3/10/2024,Inactive
+38,Wordify,Raw Material Supplier,RU,,UP66066776713,false,Pending,US,true,7/11/2024,Inactive
+39,Chatterbridge,Influencer Agency,ID,IE,FB39013614105,false,Pending,US,false,5/2/2025,Active
+40,Wordify,Raw Material Supplier,PL,ID,PH47753718513,false,,APAC,true,9/23/2023,Active
+41,Photobug,Retail Tech,CZ,PL,NK35873511391,false,Signed,EU,false,12/20/2024,Inactive
+42,Kwilith,Raw Material Supplier,HN,SV,FV10127647994,true,Missing,EU,true,3/25/2023,Inactive
+43,Buzzster,Raw Material Supplier,ID,CN,QE40382746254,true,Missing,US,true,2/11/2024,Inactive
+44,Linktype,CRO - Clinical Research,RU,CN,DI80907622806,false,,EU,false,1/7/2025,Active
+45,Camimbo,Raw Material Supplier,CO,VE,PP08970616761,true,Pending,APAC,true,10/22/2024,Active
+46,Wikibox,Influencer Agency,PH,EG,GV68265437774,false,Signed,APAC,false,12/16/2023,Active
+47,Feedmix,Retail Tech,KR,CN,UF95696942933,false,Signed,EU,true,1/5/2024,Inactive
+48,Npath,Influencer Agency,CN,ID,KL06095973349,true,Signed,APAC,false,7/29/2025,Inactive
+49,Npath,Raw Material Supplier,FR,CA,ZO93721491211,true,Signed,APAC,true,12/7/2023,Inactive
+50,Eazzy,CRO - Clinical Research,SA,HR,IX69884436924,true,Pending,APAC,true,5/4/2023,Inactive
+51,Talane,Packaging & Glass,CN,CN,VO44567931877,true,Pending,APAC,false,7/6/2023,Active
+52,Tekfly,Packaging & Glass,LA,CN,SH16640509984,false,Pending,EU,true,4/1/2024,Inactive
+53,Trupe,Packaging & Glass,TJ,,LR49445186649,true,Missing,EU,true,5/21/2025,Active
+54,Linklinks,Packaging & Glass,ID,BR,YZ11891761569,true,,EU,false,6/27/2023,Active
+55,Demivee,Retail Tech,CN,MX,RS01565054399,false,Missing,EU,true,11/23/2023,Inactive
+56,Wordware,Retail Tech,CZ,CZ,BK66331707620,true,Pending,APAC,false,9/20/2023,Active
+57,Dabfeed,CRO - Clinical Research,SI,SE,TX20407498199,true,Missing,US,false,5/28/2023,Active
+58,Teklist,Packaging & Glass,FR,RU,MO50878973124,false,Missing,APAC,false,5/15/2024,Active
+59,Centizu,Raw Material Supplier,ID,ID,QV78267919770,false,Missing,APAC,true,9/29/2025,Active
+60,Quamba,Retail Tech,US,VN,OV28343655474,false,Missing,US,false,2/2/2024,Active
+61,Jaxworks,Influencer Agency,US,GR,CV51222407676,false,Signed,EU,true,3/16/2025,Inactive
+62,Geba,CRO - Clinical Research,ID,AR,TJ42056615843,false,Pending,APAC,true,3/28/2025,Inactive
+63,Devcast,Packaging & Glass,RU,PH,RG56033442408,true,Missing,US,false,7/9/2023,Inactive
+64,Rhybox,Packaging & Glass,PT,SY,HZ71986544144,false,Signed,US,true,7/21/2025,Inactive
+65,Podcat,CRO - Clinical Research,CN,CN,WI51048976053,false,Missing,US,true,2/7/2023,Active
+66,Bubbletube,Raw Material Supplier,RU,CL,YC28438482241,true,Pending,APAC,false,11/14/2023,Active
+67,Zazio,Retail Tech,CN,BA,TC27130787110,true,Missing,US,false,4/10/2023,Active
+68,Yabox,Influencer Agency,PT,ID,YK81461985611,true,Missing,EU,false,9/3/2025,Inactive
+69,Zoovu,Packaging & Glass,CR,VN,UF30553621701,false,Signed,EU,true,4/3/2024,Active
+70,Digitube,Retail Tech,US,UA,FL08569425876,false,,APAC,false,3/18/2023,Active
+71,Fanoodle,Influencer Agency,ID,RU,GQ49062433269,false,Pending,EU,true,2/1/2024,Active
+72,Cogidoo,Packaging & Glass,CN,DK,RM59969256734,false,Missing,APAC,false,2/19/2025,Inactive
+73,Ntag,Packaging & Glass,CN,RU,ME80534764113,true,Pending,EU,false,11/13/2024,Active
+74,Yoveo,Packaging & Glass,PY,CN,FZ85841616951,false,Pending,EU,false,9/17/2025,Inactive
+75,Zoovu,Raw Material Supplier,PH,,YT18606291265,true,Missing,APAC,false,10/31/2023,Inactive
+76,Flipstorm,Retail Tech,MX,CN,HD25020055107,true,Pending,EU,true,7/19/2024,Inactive
+77,Quatz,Retail Tech,IT,CW,MJ29035294357,true,,APAC,true,9/20/2023,Inactive
+78,Centimia,Retail Tech,ID,NI,DC70333335827,false,Missing,APAC,false,3/19/2024,Active
+79,Dynazzy,Packaging & Glass,AL,PT,VH50656345804,false,,US,false,5/10/2023,Active
+80,Divanoodle,CRO - Clinical Research,YE,,JP92526015324,false,Pending,APAC,true,11/21/2024,Active
+81,Photobean,Retail Tech,CN,,QZ95182838293,false,Missing,EU,true,10/30/2024,Inactive
+82,Gabtune,Retail Tech,SA,CN,EF79835319181,true,Signed,APAC,false,4/23/2023,Inactive
+83,Kaymbo,Packaging & Glass,ID,ID,VZ90390754424,true,Missing,APAC,true,8/24/2025,Inactive
+84,Rhynyx,Raw Material Supplier,PL,SE,TC38848696940,true,Signed,US,true,1/19/2024,Inactive
+85,Realpoint,Raw Material Supplier,CN,NO,UU77668614747,false,,US,false,4/16/2024,Active
+86,Jatri,Retail Tech,PT,,BF41547579725,true,Missing,US,true,11/20/2024,Active
+87,Fivechat,CRO - Clinical Research,FR,,LL14828340087,false,,APAC,false,3/27/2024,Active
+88,Divanoodle,Packaging & Glass,JP,CN,SY00359209884,false,Missing,US,false,5/18/2025,Active
+89,Mita,Raw Material Supplier,PE,PT,GS16037402813,true,Missing,EU,false,10/15/2025,Inactive
+90,Centidel,Influencer Agency,SE,CN,CK45506942876,false,Pending,APAC,false,6/16/2025,Active
+91,Realcube,Retail Tech,EE,PY,SE55912544528,true,Pending,EU,false,5/5/2023,Inactive
+92,Skinte,Influencer Agency,CU,,BE36265155775,false,Missing,EU,true,6/15/2025,Active
+93,Photobug,Raw Material Supplier,AL,CN,RM07125510872,false,,EU,false,5/12/2023,Active
+94,Agimba,Influencer Agency,LV,PL,IJ09167330567,false,,EU,false,3/19/2023,Inactive
+95,Gigabox,Packaging & Glass,CZ,CO,SF43547243178,false,Pending,EU,false,8/24/2025,Active
+96,Voolia,Retail Tech,ID,BR,VQ67390590520,true,Pending,US,false,7/16/2025,Inactive
+97,Meemm,CRO - Clinical Research,RU,US,BP51535594895,false,Missing,APAC,true,8/16/2023,Inactive
+98,Tagfeed,CRO - Clinical Research,SY,FR,DI75828769861,true,Pending,EU,false,12/25/2023,Inactive
+99,Flashdog,CRO - Clinical Research,CA,PL,FT92219629087,false,Missing,EU,false,7/8/2025,Active
+100,Avaveo,CRO - Clinical Research,DK,CN,CI00529293871,true,Missing,APAC,true,2/11/2023,Active
+101,Skinte,Influencer Agency,TH,PT,MN09744133009,true,Pending,EU,true,5/11/2025,Active
+102,Yodoo,Packaging & Glass,PT,ID,QO29102978146,false,Missing,APAC,false,7/8/2023,Active
+103,Youbridge,CRO - Clinical Research,AF,CN,FW60086749495,true,Pending,EU,false,7/27/2023,Inactive
+104,Oyondu,CRO - Clinical Research,CN,CN,OJ07092712259,true,Missing,US,true,8/11/2025,Active
+105,Twimm,Packaging & Glass,SE,CN,GC83570529058,false,,US,true,9/7/2024,Inactive
+106,Zoomcast,CRO - Clinical Research,CZ,CN,ZO84121435762,true,Signed,EU,false,2/23/2025,Active
+107,Gevee,Packaging & Glass,BR,,FA45132170030,false,Pending,APAC,false,4/25/2025,Active
+108,Twiyo,Retail Tech,KZ,JP,BB23640739431,false,Missing,EU,true,5/16/2025,Inactive
+109,Mynte,Influencer Agency,PL,PH,AZ81715439687,true,Missing,APAC,true,12/11/2023,Active
+110,Browsecat,Packaging & Glass,RU,CN,HD60701954102,false,Missing,EU,true,7/21/2025,Active
+111,Wordify,Retail Tech,CZ,RU,UC15657283608,false,Pending,US,false,1/9/2025,Active
+112,Yata,Raw Material Supplier,CN,PL,PE98850358873,true,Signed,APAC,true,4/5/2023,Active
+113,Photofeed,Packaging & Glass,PT,CN,BZ06514691411,true,Missing,EU,true,12/1/2024,Active
+114,Talane,Influencer Agency,PL,PT,FT83979230974,true,Pending,US,true,9/19/2023,Inactive
+115,Meevee,Raw Material Supplier,MA,DE,LN80551875878,true,Signed,APAC,true,3/5/2023,Inactive
+116,Lazzy,Raw Material Supplier,JP,SE,BY94182398057,false,Pending,APAC,true,4/21/2024,Active
+117,Gabspot,Packaging & Glass,ID,PH,TV79361056555,true,Missing,US,true,12/18/2024,Inactive
+118,Fivebridge,Raw Material Supplier,EC,ID,XU53170019853,true,Pending,US,false,9/7/2023,Inactive
+119,Demimbu,Retail Tech,CN,ID,DZ58270089103,false,Pending,US,true,1/18/2025,Inactive
+120,Yadel,Retail Tech,CN,UA,NJ87284545319,false,Signed,US,true,5/1/2023,Active
+121,Devpulse,Retail Tech,ZM,,ET96371213711,true,Pending,APAC,true,4/1/2024,Inactive
+122,Tanoodle,CRO - Clinical Research,CN,,FD68168329576,true,,EU,false,12/17/2024,Inactive
+123,Layo,Influencer Agency,PH,RU,FH52055109535,true,Pending,US,true,10/23/2024,Active
+124,Snaptags,Raw Material Supplier,MX,TH,MG70700175893,false,Pending,APAC,true,3/1/2024,Inactive
+125,Youfeed,Influencer Agency,CN,PE,DS69290424180,true,,EU,false,1/27/2025,Inactive
+126,Tambee,Raw Material Supplier,US,RU,IT59809217114,true,Missing,EU,true,11/1/2023,Inactive
+127,Skyba,CRO - Clinical Research,CN,JP,NV75520995936,true,Pending,EU,true,6/24/2025,Inactive
+128,Flashset,Influencer Agency,FR,PT,JZ77438629583,true,Missing,APAC,true,8/25/2023,Active
+129,Plambee,Packaging & Glass,CZ,GT,WD87612707107,false,Signed,APAC,false,4/27/2025,Inactive
+130,Flipbug,Raw Material Supplier,ID,JP,RE69781484414,false,Signed,EU,false,10/28/2023,Inactive
+131,Fiveclub,CRO - Clinical Research,CN,CN,AA74079265108,false,Pending,APAC,false,1/19/2025,Inactive
+132,Wikizz,CRO - Clinical Research,RU,NG,PP65795243933,true,Pending,US,true,2/14/2025,Inactive
+133,Rhynoodle,Retail Tech,ID,CN,LM82206999568,true,,EU,false,8/27/2025,Inactive
+134,Devify,Influencer Agency,GR,JP,MP70930245664,false,Missing,US,false,9/12/2023,Active
+135,Youbridge,Packaging & Glass,SE,TH,PD94538417342,false,Missing,EU,false,7/16/2025,Active
+136,Viva,Raw Material Supplier,CO,CA,RT30762985124,false,Signed,APAC,false,10/8/2024,Active
+137,Feedbug,Packaging & Glass,RU,TH,XB28434550491,false,,EU,false,1/8/2025,Inactive
+138,Muxo,CRO - Clinical Research,BR,SE,BU45794254308,true,Missing,EU,true,8/25/2024,Active
+139,Camimbo,Packaging & Glass,CN,CN,PS92328226135,false,Signed,US,false,11/28/2023,Active
+140,Skipfire,Raw Material Supplier,PH,,GA77089511505,true,Signed,EU,false,4/24/2024,Inactive
+141,Zooxo,Retail Tech,ID,NC,XD32517381331,true,Pending,US,false,6/19/2023,Active
+142,Skyvu,Raw Material Supplier,CN,CN,AO12535490018,true,Missing,APAC,false,11/27/2023,Inactive
+143,Podcat,Raw Material Supplier,PT,RU,WO02436930779,false,Signed,EU,true,7/9/2024,Active
+144,Gigabox,Packaging & Glass,FR,PT,RV53566647306,true,Missing,EU,true,2/23/2024,Inactive
+145,Skyble,Raw Material Supplier,RU,ID,NH41093994916,true,Missing,APAC,true,2/15/2025,Active
+146,Tambee,Influencer Agency,CN,FR,JF19740953322,false,,US,false,4/11/2024,Active
+147,Shufflebeat,Packaging & Glass,YE,BR,TX96706860797,true,Missing,APAC,true,4/28/2024,Active
+148,Twitternation,CRO - Clinical Research,VE,,IE80666550476,false,,US,true,3/15/2025,Active
+149,Oyonder,Packaging & Glass,SO,,XL16462626837,true,Pending,US,false,4/12/2024,Active
+150,Pixonyx,CRO - Clinical Research,PH,BA,WJ41299129177,true,Signed,US,false,5/10/2025,Active
+151,Skiba,Packaging & Glass,UZ,US,SJ27764060223,false,Missing,APAC,false,6/21/2023,Inactive
+152,Flipbug,CRO - Clinical Research,ID,PH,KU33743182957,true,Pending,APAC,true,9/30/2025,Inactive
+153,Abatz,Retail Tech,ID,,TH98478164987,false,Pending,EU,false,4/23/2023,Inactive
+154,Kwinu,Raw Material Supplier,CZ,US,QE17984778451,false,Missing,US,true,11/1/2024,Active
+155,Gigaclub,Influencer Agency,BY,IL,KK82494580995,false,Missing,APAC,true,9/20/2023,Inactive
+156,Voolia,CRO - Clinical Research,AL,CN,BC19965727291,true,Pending,EU,true,9/15/2023,Inactive
+157,Topicstorm,Packaging & Glass,HN,UG,IS47069928468,false,Signed,US,true,5/23/2023,Inactive
+158,Jabbertype,Influencer Agency,CZ,CN,PB84158002317,false,Signed,APAC,true,9/8/2023,Active
+159,Voonyx,Packaging & Glass,CN,AO,HJ17223702443,false,,EU,false,3/4/2024,Inactive
+160,Flashset,Packaging & Glass,FR,UA,AM66542740888,false,Pending,US,true,10/8/2024,Inactive
+161,Realcube,Raw Material Supplier,ID,UA,LP78702349382,true,Signed,EU,false,10/3/2024,Active
+162,Twitterbeat,CRO - Clinical Research,EE,ID,NB04094744061,false,Pending,APAC,true,3/6/2023,Inactive
+163,Thoughtstorm,Influencer Agency,CN,BR,CC77461245214,false,Pending,US,true,5/27/2025,Active
+164,Mydo,Packaging & Glass,FR,BR,GL27056886959,true,Missing,APAC,true,2/13/2025,Active
+165,Thoughtworks,Influencer Agency,VE,CN,XC38887330130,false,Signed,APAC,true,5/3/2023,Inactive
+166,Feedmix,CRO - Clinical Research,ID,ID,KO40372509096,false,Pending,US,false,11/12/2023,Active
+167,Twitterbeat,Influencer Agency,DK,KZ,UA66444590247,true,Missing,US,false,7/15/2024,Inactive
+168,Photolist,Packaging & Glass,ID,FR,YD67836211237,false,Pending,US,true,2/2/2023,Inactive
+169,Youspan,CRO - Clinical Research,CN,CN,SX81531170834,false,Missing,US,true,5/23/2023,Inactive
+170,Wikizz,CRO - Clinical Research,ID,CN,MW96081656535,false,Missing,US,false,3/4/2025,Active
+171,Voonder,CRO - Clinical Research,IE,,HU11462769742,true,Missing,EU,false,9/18/2023,Active
+172,Skynoodle,CRO - Clinical Research,PH,UA,IH92798501812,true,,APAC,true,8/26/2024,Inactive
+173,Browsedrive,Packaging & Glass,SI,NA,CQ80746586231,true,Signed,APAC,true,2/8/2023,Active
+174,Quinu,Packaging & Glass,RU,CN,VN90549477300,false,,APAC,false,11/24/2024,Inactive
+175,Voomm,Retail Tech,UA,,TZ48407187209,false,Signed,US,true,2/19/2025,Active
+176,Oozz,CRO - Clinical Research,CA,SE,TU65817557918,false,Pending,EU,true,3/5/2025,Inactive
+177,Fivespan,Raw Material Supplier,RU,MN,EC54687997226,false,Missing,EU,false,2/14/2024,Active
+178,LiveZ,Raw Material Supplier,US,FI,WN15127866813,false,Missing,US,false,10/27/2023,Active
+179,DabZ,Influencer Agency,CN,RU,JG56650246689,false,Pending,EU,true,4/20/2025,Active
+180,Skipfire,Raw Material Supplier,CO,SE,CR18161419787,false,Signed,US,true,6/19/2025,Inactive
+181,Twinder,Raw Material Supplier,CN,ID,RB99410494389,true,Missing,APAC,true,3/24/2025,Inactive
+182,Eidel,Influencer Agency,HR,CN,FD71653476521,true,Missing,EU,true,5/10/2023,Active
+183,Photojam,CRO - Clinical Research,BY,SE,CT44570274581,true,Missing,APAC,false,10/19/2025,Active
+184,Cogilith,Raw Material Supplier,PH,CN,ZU64985846866,true,Signed,APAC,true,8/8/2025,Active
+185,Wordware,Packaging & Glass,PH,ID,NH01633401610,true,Missing,APAC,false,3/14/2023,Active
+186,Skilith,Raw Material Supplier,DE,CN,JT20606949424,true,Pending,APAC,true,7/28/2023,Active
+187,Kayveo,CRO - Clinical Research,ID,PH,FH87877207531,false,,US,false,3/29/2025,Inactive
+188,Devbug,Raw Material Supplier,CA,PA,VK56168051869,false,Pending,US,false,2/5/2023,Inactive
+189,Fanoodle,Packaging & Glass,PE,RU,VG97460621670,true,Missing,APAC,false,5/7/2023,Inactive
+190,Skilith,CRO - Clinical Research,IT,FR,WY98512684082,false,Missing,APAC,true,10/26/2023,Inactive
+191,Fivebridge,Influencer Agency,GR,TH,ZC02044136118,true,Pending,APAC,false,3/21/2023,Inactive
+192,Agivu,Packaging & Glass,PE,MT,EW33559912799,false,Missing,US,false,1/8/2024,Active
+193,Gabtype,Packaging & Glass,ID,CO,EM45460125088,true,Signed,US,false,2/20/2025,Inactive
+194,Thoughtworks,Packaging & Glass,BR,BR,DQ34761282297,true,Missing,US,true,7/12/2024,Inactive
+195,Oyoyo,Raw Material Supplier,CN,RU,FM12808176198,false,Missing,EU,false,9/15/2024,Active
+196,Mymm,Raw Material Supplier,NA,SI,AU26097735684,true,,US,false,12/23/2024,Active
+197,Kwilith,Packaging & Glass,US,RU,UF82819024416,true,,EU,true,8/18/2023,Inactive
+198,Skidoo,Packaging & Glass,US,CZ,FQ53132021744,true,Pending,APAC,true,11/27/2024,Inactive
+199,Thoughtsphere,Raw Material Supplier,TH,AR,ZD86504791903,false,Missing,APAC,false,6/11/2025,Active
+200,Livetube,Influencer Agency,VE,CN,GH41009847548,false,Pending,APAC,false,10/30/2025,Active
+201,Oyondu,CRO - Clinical Research,RU,ID,XT64745090799,false,Missing,APAC,true,5/4/2025,Active
+202,Voomm,Raw Material Supplier,CM,CN,OQ41109131831,false,Signed,APAC,false,6/23/2025,Active
+203,Skyble,Influencer Agency,PH,ID,OR09460919485,false,Signed,EU,true,11/2/2023,Inactive
+204,Youtags,CRO - Clinical Research,VE,,HR30837968190,true,Pending,EU,true,1/17/2024,Active
+205,Dynazzy,Influencer Agency,CN,CZ,SF76161234871,false,Pending,APAC,false,2/4/2025,Inactive
+206,Lajo,CRO - Clinical Research,CN,,FU82071788216,false,Signed,EU,false,1/20/2024,Active
+207,Kazio,Influencer Agency,VN,PL,SO35674240677,true,,US,true,12/11/2023,Active
+208,Nlounge,Retail Tech,CN,CZ,ND85661367341,true,Missing,US,false,9/23/2024,Inactive
+209,Skajo,Retail Tech,RU,CN,UQ16777848526,false,Missing,APAC,true,3/9/2023,Active
+210,Skippad,Packaging & Glass,SN,LY,BG06463954486,false,Missing,EU,false,7/7/2024,Active
+211,Mynte,Retail Tech,ID,BQ,DA47071765619,true,Signed,EU,false,4/2/2024,Inactive
+212,Nlounge,CRO - Clinical Research,PT,VN,AU07593425626,false,Signed,EU,true,1/27/2024,Inactive
+213,Twitterlist,Raw Material Supplier,AM,UA,LR47882829271,false,Missing,EU,true,10/10/2024,Inactive
+214,Skynoodle,Packaging & Glass,FR,RU,LQ89238908093,true,Signed,EU,false,4/19/2025,Inactive
+215,Devshare,CRO - Clinical Research,BR,,FW98059150024,true,Pending,US,false,9/16/2023,Active
+216,Tanoodle,Packaging & Glass,ID,PL,QK25099590301,false,Missing,EU,false,1/30/2025,Inactive
+217,Blogpad,Packaging & Glass,ID,ID,JB81632294472,true,Missing,APAC,false,7/23/2023,Inactive
+218,Reallinks,Packaging & Glass,CN,RU,VG60091261587,false,Missing,EU,true,12/28/2024,Inactive
+219,Ainyx,Raw Material Supplier,ID,PL,VF32333925160,true,Signed,US,true,5/25/2025,Inactive
+220,Ooba,Packaging & Glass,CN,CD,UQ82549759128,true,Missing,US,false,3/3/2023,Inactive
+221,Youspan,Retail Tech,BR,CN,SG17887651152,false,Signed,EU,false,12/10/2024,Inactive
+222,Meeveo,Influencer Agency,ID,CG,AO35150756994,false,Signed,US,false,5/4/2024,Inactive
+223,Myworks,CRO - Clinical Research,PH,RS,GM43929005664,true,Missing,APAC,false,3/18/2025,Inactive
+224,Mydeo,CRO - Clinical Research,IE,SE,ND08674550906,true,Signed,EU,false,9/6/2025,Active
+225,Ainyx,Retail Tech,ET,ID,RZ44281033993,true,Signed,US,true,10/9/2023,Active
+226,Jatri,Retail Tech,UZ,CZ,KM57152955280,true,,APAC,true,5/23/2024,Inactive
+227,Twitterlist,Raw Material Supplier,PH,CA,RZ42675916727,false,Pending,US,true,8/2/2025,Active
+228,Rhyloo,CRO - Clinical Research,CO,SE,EF48291325826,true,Missing,EU,true,2/11/2025,Inactive
+229,Camimbo,CRO - Clinical Research,PE,CN,DV02640338631,true,Pending,APAC,true,3/10/2023,Inactive
+230,Devpoint,Raw Material Supplier,MX,TH,FW90098913403,false,Missing,EU,true,11/16/2024,Active
+231,DabZ,Raw Material Supplier,CN,RU,BY74864910553,false,Signed,US,false,2/11/2024,Active
+232,Oba,Influencer Agency,BR,,OP46711902207,false,Pending,US,true,7/22/2025,Active
+233,Cogilith,Retail Tech,CN,CN,JO77575497285,false,Pending,APAC,true,6/11/2024,Inactive
+234,Yotz,Influencer Agency,RU,PH,FS75517126692,false,Pending,US,true,2/2/2023,Active
+235,Tazzy,Raw Material Supplier,MA,ID,TT26276944027,true,Missing,US,true,7/3/2024,Active
+236,Oodoo,CRO - Clinical Research,CN,,IS51996356415,true,Pending,APAC,false,9/7/2024,Active
+237,Babbleopia,Retail Tech,ID,PT,CJ49200180731,false,Signed,EU,true,1/28/2025,Active
+238,Eadel,Retail Tech,TD,,XR07280529473,false,Pending,APAC,false,7/10/2023,Inactive
+239,Tavu,CRO - Clinical Research,CN,SE,GA60208760288,false,Signed,EU,false,5/2/2023,Inactive
+240,Quimba,Packaging & Glass,PH,PH,ZP72255471632,false,Pending,APAC,false,9/11/2024,Active
+241,Quinu,CRO - Clinical Research,CN,PE,GS98857912760,true,Pending,APAC,false,6/21/2025,Active
+242,Oyondu,Packaging & Glass,CN,CN,WJ56146880022,false,Missing,US,true,5/11/2025,Inactive
+243,Npath,Raw Material Supplier,CN,PH,XP95886797841,false,Missing,APAC,true,11/23/2023,Active
+244,Thoughtbridge,Raw Material Supplier,AR,CN,HJ34925798195,false,Missing,US,false,2/15/2024,Inactive
+245,Eadel,Packaging & Glass,SE,,LY29123302295,true,Pending,APAC,true,9/29/2025,Active
+246,Roomm,Packaging & Glass,JP,XK,GU93805201681,true,Signed,APAC,false,5/22/2025,Inactive
+247,Twitterbridge,Raw Material Supplier,TN,,WE35497716093,true,Missing,US,false,7/28/2025,Active
+248,Cogibox,CRO - Clinical Research,PH,CN,PS68706668062,false,Signed,EU,true,12/14/2024,Active
+249,Skipfire,Raw Material Supplier,GR,CN,IB75656765020,false,Missing,APAC,true,10/8/2024,Inactive
+250,Camimbo,Packaging & Glass,CZ,,IR38292929229,false,Pending,US,false,6/20/2024,Inactive
+251,Quimm,CRO - Clinical Research,CN,RU,GZ58430755620,true,Pending,EU,true,7/23/2025,Inactive
+252,Eimbee,CRO - Clinical Research,CA,ID,RI38582870154,true,Signed,US,true,3/31/2024,Inactive
+253,Blognation,Packaging & Glass,RS,IR,PE85728403393,false,Signed,EU,false,1/29/2025,Inactive
+254,Edgeclub,Influencer Agency,NG,ID,YR60193689064,true,Pending,APAC,true,5/24/2025,Active
+255,Eayo,Influencer Agency,AZ,,CN22869857696,true,Missing,APAC,true,3/19/2024,Inactive
+256,Cogilith,Retail Tech,PL,BY,TK34353567457,true,Signed,EU,false,1/18/2024,Active
+257,Edgeclub,CRO - Clinical Research,NL,JP,XC21370134560,true,,US,true,9/1/2024,Inactive
+258,Viva,Raw Material Supplier,IR,ID,QY27853798021,false,Pending,EU,true,8/13/2024,Active
+259,Riffpedia,CRO - Clinical Research,CN,,HD32210260028,true,Pending,US,false,7/10/2025,Inactive
+260,Realpoint,Influencer Agency,CN,PL,CW43994322992,true,Pending,APAC,false,10/2/2025,Active
+261,Photobug,Retail Tech,RU,MU,GD96369758186,false,Missing,APAC,false,8/23/2025,Active
+262,Roombo,Raw Material Supplier,PL,RU,BN04017653369,true,Signed,EU,false,12/28/2024,Active
+263,Trunyx,Retail Tech,RU,ID,NU83243922623,true,Missing,US,false,2/13/2023,Active
+264,Mita,Influencer Agency,PS,ID,OR92893858486,false,,EU,true,4/6/2023,Active
+265,Zoomlounge,CRO - Clinical Research,ID,CN,OU48210779485,true,Signed,US,false,12/27/2023,Inactive
+266,Wordware,Raw Material Supplier,CN,FR,KT57870051044,false,Missing,US,false,2/9/2023,Inactive
+267,Eimbee,Influencer Agency,RU,RU,PO23532800482,false,Missing,US,false,4/9/2023,Inactive
+268,Dabvine,Influencer Agency,PE,,JH58034550404,false,Signed,APAC,false,3/3/2024,Active
+269,Dynazzy,Influencer Agency,SE,ID,BH91060540552,false,Pending,APAC,false,4/11/2024,Inactive
+270,Vinte,Influencer Agency,PE,BE,UX27163126393,false,Pending,EU,true,8/13/2025,Inactive
+271,Gabvine,Influencer Agency,VE,SE,OW25815872129,true,Pending,US,false,8/13/2024,Inactive
+272,Skaboo,CRO - Clinical Research,PH,CL,FQ65489743350,true,Pending,APAC,false,4/7/2025,Active
+273,Skyvu,Raw Material Supplier,VN,,PZ24157493121,false,Pending,APAC,false,1/10/2025,Active
+274,Midel,Packaging & Glass,PT,CN,WQ65569979877,true,,US,false,10/31/2025,Active
+275,InnoZ,Packaging & Glass,US,PT,NH85331845847,true,Signed,EU,true,8/31/2023,Inactive
+276,Kayveo,Influencer Agency,SN,SE,DR64378430841,false,Pending,US,true,12/10/2024,Active
+277,Jazzy,Raw Material Supplier,ID,CN,WE62491393399,false,Missing,EU,true,8/11/2024,Active
+278,Eayo,Packaging & Glass,PH,CN,MN65055576704,true,Signed,US,false,5/30/2024,Inactive
+279,Dablist,Retail Tech,CZ,CO,KW77880823025,true,Signed,APAC,false,3/25/2023,Inactive
+280,Ailane,Retail Tech,CN,SE,UL02296947370,false,Signed,EU,false,9/13/2025,Inactive
+281,Quatz,Raw Material Supplier,MY,,TZ44790899490,true,Signed,EU,true,5/19/2023,Active
+282,Izio,CRO - Clinical Research,FR,CA,NY61808694733,false,Signed,US,false,10/14/2025,Inactive
+283,Camimbo,Raw Material Supplier,SI,PH,BQ26829047517,true,,APAC,false,3/24/2025,Active
+284,Twinte,Packaging & Glass,JP,ID,EB91403638099,false,Missing,US,false,8/7/2024,Inactive
+285,Vidoo,Raw Material Supplier,YE,FR,CM86261354448,false,,US,false,5/26/2023,Active
+286,Bubblemix,Influencer Agency,ID,PH,RI18077388216,true,Missing,APAC,true,4/16/2025,Inactive
+287,Ooba,Raw Material Supplier,CN,SI,WV56707895036,false,Pending,US,false,7/26/2025,Inactive
+288,Bubbletube,Influencer Agency,LV,IR,TY56005050440,true,Signed,APAC,false,4/27/2023,Inactive
+289,Riffpedia,Influencer Agency,CN,SL,OD74915762047,false,Signed,US,false,5/17/2024,Active
+290,Bubblemix,Packaging & Glass,ID,UA,LV94736860720,true,Signed,EU,false,11/4/2023,Inactive
+291,Demivee,CRO - Clinical Research,AF,ID,LY26576152199,true,Missing,APAC,false,9/15/2025,Active
+292,Eimbee,CRO - Clinical Research,PS,JO,YC84149141461,false,Pending,EU,false,9/10/2025,Inactive
+293,Babbleblab,Retail Tech,SE,RU,GJ15076114242,false,Missing,EU,true,1/29/2025,Active
+294,Demimbu,Raw Material Supplier,PT,FR,DG32470116389,false,Missing,EU,true,8/5/2025,Active
+295,Yabox,Retail Tech,BY,SE,CA40297932221,false,Missing,US,false,4/2/2025,Inactive
+296,Trilia,Influencer Agency,BR,KH,DM19793908822,true,Signed,APAC,true,4/8/2023,Active
+297,Blogtags,Influencer Agency,CN,CN,XQ35760470489,true,Pending,EU,false,6/4/2025,Active
+298,Flipopia,Raw Material Supplier,FR,PH,EE57456713125,false,Signed,APAC,false,4/24/2023,Active
+299,Meezzy,Raw Material Supplier,CN,SO,MI23107728371,true,Signed,US,true,3/5/2023,Inactive
+300,Camido,Influencer Agency,CN,SE,LU40720486727,true,,APAC,true,12/19/2023,Active
+301,Brainlounge,Influencer Agency,PE,FR,AX45575075505,true,,EU,false,3/11/2025,Inactive
+302,Wikido,Influencer Agency,US,MN,JA20482109891,false,Pending,US,false,6/9/2023,Inactive
+303,Trilia,Raw Material Supplier,CN,PH,UD75901888822,true,Missing,APAC,false,6/8/2023,Inactive
+304,Twitterbeat,Raw Material Supplier,ZA,AF,SG37001188021,true,Pending,EU,false,2/16/2025,Active
+305,Dabvine,Influencer Agency,BR,ZA,GC63434694436,false,Pending,US,false,3/7/2025,Active
+306,Flipstorm,Influencer Agency,MU,PH,CG89106728379,true,Missing,US,true,8/23/2023,Active
+307,Divavu,Retail Tech,MN,NO,JR04442383273,false,Missing,APAC,true,3/30/2023,Inactive
+308,Jabbercube,Influencer Agency,CN,CA,EL63455283481,false,Signed,EU,true,7/23/2023,Active
+309,Shufflebeat,Packaging & Glass,AZ,ID,IW10350667194,false,Missing,APAC,false,2/3/2024,Inactive
+310,Yakitri,CRO - Clinical Research,ID,BR,QN74548364493,true,Pending,EU,true,4/7/2024,Active
+311,Yodel,CRO - Clinical Research,PH,IE,BL52569814327,false,Signed,US,false,8/20/2023,Active
+312,Oloo,Retail Tech,ID,,VO83673816477,true,Pending,APAC,false,7/6/2025,Inactive
+313,Meezzy,Retail Tech,TN,BR,TH08501583098,true,Signed,APAC,false,2/13/2024,Active
+314,Agivu,CRO - Clinical Research,PH,MM,GE38890648732,false,Missing,US,false,3/1/2024,Inactive
+315,Kaymbo,CRO - Clinical Research,CO,CA,BC61813741360,true,Signed,EU,false,4/13/2023,Inactive
+316,Gigabox,Influencer Agency,EC,RU,YS50655534927,true,,APAC,true,7/6/2023,Active
+317,Youopia,CRO - Clinical Research,PL,PK,PB95106274438,true,Pending,US,false,6/26/2024,Active
+318,Quimm,Retail Tech,CN,CN,BF44126582471,false,Missing,APAC,false,7/6/2025,Active
+319,Cogibox,Packaging & Glass,ID,SE,YO06474962177,false,Pending,US,true,10/28/2024,Inactive
+320,Devpulse,Raw Material Supplier,FR,,RU95582154823,true,Signed,US,true,7/24/2023,Active
+321,Skinder,Raw Material Supplier,PH,GR,KR11375581938,true,Signed,EU,false,5/4/2024,Inactive
+322,Trupe,Packaging & Glass,RU,CN,GZ68827464062,true,Pending,EU,false,5/5/2025,Inactive
+323,Cogilith,Retail Tech,AF,XK,ND74784359684,true,Missing,APAC,true,8/3/2024,Active
+324,Miboo,Raw Material Supplier,CN,RU,QD53582906876,false,Pending,APAC,false,6/28/2025,Inactive
+325,Agimba,Raw Material Supplier,RU,KW,AV88643871049,false,,US,true,5/9/2024,Inactive
+326,Voomm,Retail Tech,ID,CN,GQ63334919797,true,Missing,EU,true,9/25/2025,Inactive
+327,Trunyx,Packaging & Glass,PK,PA,VJ62894763668,false,Signed,APAC,true,6/15/2025,Inactive
+328,Fanoodle,Packaging & Glass,CZ,CN,KB85778489987,false,Missing,EU,true,4/9/2023,Active
+329,Plajo,Packaging & Glass,CI,BR,NC95930034174,false,Signed,APAC,false,10/30/2024,Inactive
+330,Avaveo,Influencer Agency,AR,JP,CQ00072241510,true,Pending,US,true,7/28/2023,Inactive
+331,Jaloo,Retail Tech,VN,ID,NP43150602024,true,Signed,APAC,true,1/28/2025,Active
+332,Skimia,Raw Material Supplier,MK,,GF27377679845,false,Signed,EU,true,10/18/2025,Inactive
+333,Innojam,CRO - Clinical Research,CN,BR,XU68717972254,false,Signed,APAC,false,9/6/2024,Inactive
+334,Brainsphere,Influencer Agency,CO,ID,CR79230210590,false,Pending,US,false,10/7/2023,Active
+335,Yodel,Retail Tech,CO,PH,CW82383877087,true,Signed,EU,true,6/6/2024,Inactive
+336,Photojam,CRO - Clinical Research,FR,CR,WM80509688191,false,Signed,EU,false,3/2/2025,Inactive
+337,Realmix,Packaging & Glass,PK,MX,QQ61704424877,true,Missing,EU,true,11/20/2023,Inactive
+338,Bluezoom,Retail Tech,FR,PH,MB63669135975,true,Missing,US,true,8/21/2023,Inactive
+339,Gigabox,CRO - Clinical Research,LV,CA,NE17990918369,true,,EU,false,5/27/2024,Active
+340,Avaveo,CRO - Clinical Research,PT,CN,AU58336423816,false,Pending,APAC,true,12/29/2023,Active
+341,Nlounge,Retail Tech,ID,CN,JA53603640308,true,Pending,US,true,1/2/2024,Active
+342,Jabbersphere,CRO - Clinical Research,TN,MY,WM91270226522,false,Missing,US,true,2/15/2024,Active
+343,Tavu,Packaging & Glass,SE,CN,FC35625650787,true,Pending,US,true,5/14/2023,Inactive
+344,Voolia,CRO - Clinical Research,SE,US,MD21468486698,false,Pending,US,true,9/15/2025,Inactive
+345,Miboo,CRO - Clinical Research,PH,CN,TM71292407059,false,Pending,US,false,2/24/2024,Inactive
+346,Thoughtbridge,Raw Material Supplier,UA,CN,DZ20925563153,false,Pending,US,true,10/1/2023,Inactive
+347,Vinder,CRO - Clinical Research,PH,AR,HF96521368968,false,Pending,APAC,false,7/6/2025,Active
+348,Voomm,Raw Material Supplier,SE,GR,IM17322721448,false,Signed,EU,true,9/18/2023,Active
+349,Photofeed,Packaging & Glass,CN,PH,YU99675386280,true,Missing,APAC,true,9/13/2024,Inactive
+350,Bubblebox,CRO - Clinical Research,MY,ME,MK68688571043,true,Missing,US,true,6/9/2024,Inactive
+351,Oyonder,Raw Material Supplier,RU,TH,GA77959484205,true,,US,false,8/2/2025,Active
+352,Eamia,Influencer Agency,LK,BG,YL71991498634,true,Signed,APAC,true,6/13/2024,Active
+353,Avamm,CRO - Clinical Research,US,CN,NE37313636937,true,Missing,US,false,6/19/2025,Active
+354,Zazio,CRO - Clinical Research,ML,CO,EV40670176168,true,Signed,EU,false,2/27/2023,Active
+355,Gigashots,Packaging & Glass,TH,MX,HF96392220668,false,Missing,APAC,false,5/21/2025,Active
+356,Realbuzz,Retail Tech,CN,TH,OW81453175285,true,Pending,US,true,8/19/2024,Active
+357,Shufflebeat,Raw Material Supplier,FR,ID,QV87097031636,true,Pending,APAC,false,1/27/2024,Inactive
+358,Kimia,Packaging & Glass,SE,ID,OR21772919102,false,Signed,APAC,false,2/16/2024,Inactive
+359,Lajo,Raw Material Supplier,UA,PW,EB66212717518,false,Pending,APAC,true,9/4/2025,Inactive
+360,Oyondu,Retail Tech,AM,FR,KT42462627259,false,Missing,APAC,true,10/9/2024,Inactive
+361,Jabberstorm,Raw Material Supplier,RS,RU,VS22112944196,false,Missing,US,false,12/9/2024,Inactive
+362,Blogtag,Packaging & Glass,BR,,UH01155981927,true,Signed,EU,false,10/26/2025,Active
+363,Kaymbo,Retail Tech,ID,CN,MT45552410980,false,Missing,APAC,true,12/19/2023,Inactive
+364,Brainverse,Retail Tech,CN,CA,JO42048218087,false,Signed,APAC,false,4/23/2023,Inactive
+365,Mudo,Retail Tech,CN,GR,PB86028369862,true,Pending,US,true,10/7/2025,Active
+366,Vinder,CRO - Clinical Research,CA,TG,MY86217881918,false,Missing,EU,false,10/20/2024,Active
+367,Realbuzz,Packaging & Glass,SE,DO,BJ50874600825,false,Pending,US,true,2/26/2025,Active
+368,Avamm,Influencer Agency,CN,CN,FU99273292463,true,Missing,APAC,false,12/2/2024,Active
+369,Shufflebeat,Retail Tech,ID,,GU22742948731,true,Signed,EU,true,3/11/2025,Inactive
+370,Kwilith,CRO - Clinical Research,TH,CN,MB02163809608,true,Pending,US,true,3/13/2025,Active
+371,Einti,CRO - Clinical Research,GR,RU,MH49383319688,false,Missing,APAC,false,3/19/2023,Active
+372,Kimia,Raw Material Supplier,BR,CN,OB08515640112,false,Signed,EU,true,9/16/2024,Inactive
+373,Meezzy,Packaging & Glass,BR,ES,RD02981969395,true,Pending,US,false,2/24/2024,Inactive
+374,Photobean,CRO - Clinical Research,DO,NG,DG47333577150,true,Pending,EU,true,4/3/2024,Inactive
+375,Kaymbo,Packaging & Glass,CU,FR,NI91699585822,false,Pending,EU,true,6/30/2025,Active
+376,Trilith,Influencer Agency,VE,PH,DM04591400401,true,Pending,APAC,true,3/25/2024,Active
+377,Voonder,Retail Tech,RU,ZA,IA71087943615,false,Pending,US,false,3/15/2025,Inactive
+378,Thoughtstorm,Retail Tech,ID,CN,CG98767995409,true,Signed,EU,true,2/11/2023,Active
+379,Youspan,Retail Tech,PT,TN,MY23269329608,false,Signed,US,true,4/5/2025,Active
+380,Quimm,Influencer Agency,CN,,KP03262514123,true,Pending,APAC,true,5/26/2023,Active
+381,Blogtags,Influencer Agency,NL,,IC81552687896,false,Missing,US,false,11/6/2024,Inactive
+382,Zava,Packaging & Glass,NG,CZ,NB37737072885,false,Missing,EU,false,9/7/2024,Active
+383,Chatterbridge,CRO - Clinical Research,ID,CN,DM04776055533,false,Missing,EU,true,6/22/2023,Active
+384,Devcast,Raw Material Supplier,CO,,JJ60671837542,true,Signed,APAC,true,6/19/2025,Active
+385,Zoonoodle,Retail Tech,ID,CL,IF70584825220,true,Signed,US,true,1/27/2024,Inactive
+386,Skyndu,Packaging & Glass,VE,ID,AG68662506978,true,,US,false,11/18/2023,Inactive
+387,Divanoodle,Packaging & Glass,RU,MN,RL68956707252,true,Pending,APAC,true,9/23/2025,Active
+388,Pixope,Raw Material Supplier,AF,ZA,KU89555744264,false,Pending,US,true,5/6/2024,Active
+389,Trudeo,CRO - Clinical Research,CN,LT,MO53895317194,true,,US,true,1/12/2025,Inactive
+390,Youfeed,Influencer Agency,NZ,PE,NZ08542950709,false,Pending,US,true,11/3/2023,Inactive
+391,Tagfeed,Packaging & Glass,SE,PH,NF18150180528,false,Missing,APAC,true,4/3/2023,Inactive
+392,Reallinks,CRO - Clinical Research,US,CN,HG24131007464,false,Pending,US,true,3/17/2024,Inactive
+393,Wikizz,Packaging & Glass,FR,CN,HJ47130408462,false,Pending,APAC,true,9/23/2023,Active
+394,Dabtype,CRO - Clinical Research,BR,CN,XU02411507019,true,Missing,US,true,7/21/2024,Inactive
+395,Yacero,Retail Tech,CZ,FR,JA05649962460,false,Missing,EU,false,7/4/2023,Inactive
+396,JumpXS,Influencer Agency,CN,CN,CV84352528060,true,,US,true,3/6/2023,Active
+397,Wordify,Raw Material Supplier,SE,AZ,YA49562222675,false,Missing,APAC,true,10/30/2023,Inactive
+398,Edgetag,Retail Tech,BO,SE,RV52747751876,false,Pending,EU,false,1/24/2025,Active
+399,Zoomzone,Raw Material Supplier,SI,CO,IC15543118369,true,Pending,APAC,false,4/10/2024,Active
+400,Katz,CRO - Clinical Research,JP,SE,QW01386513630,false,Pending,APAC,true,8/15/2025,Active
+401,Youopia,Raw Material Supplier,US,AR,AA41668444308,false,Pending,APAC,true,1/23/2024,Inactive
+402,Yozio,Raw Material Supplier,BR,WS,LR92839537462,false,Signed,US,false,6/8/2025,Active
+403,Jabbertype,Packaging & Glass,BA,SY,FE19828298556,false,Signed,APAC,false,2/24/2025,Active
+404,Skippad,Influencer Agency,RU,,GA16784798172,true,Pending,APAC,false,4/1/2025,Inactive
+405,Bubblebox,Influencer Agency,CO,AM,DU57074026113,true,Signed,EU,false,4/30/2025,Inactive
+406,Gigazoom,CRO - Clinical Research,PL,RU,QV72178069913,true,Signed,US,true,8/25/2023,Inactive
+407,Trunyx,Influencer Agency,CN,NA,XJ69156677651,false,Missing,EU,true,12/26/2024,Inactive
+408,Kazio,CRO - Clinical Research,MN,NZ,TJ16414346682,true,Missing,APAC,true,6/22/2023,Active
+409,Jaxbean,CRO - Clinical Research,PG,CN,RC65866824918,true,Signed,EU,false,5/26/2025,Active
+410,Gabtune,Raw Material Supplier,MA,ID,DD33106818779,true,Missing,APAC,false,8/17/2024,Inactive
+411,Zava,Influencer Agency,BR,AR,GF32009706933,false,Pending,APAC,true,9/1/2024,Inactive
+412,Topicware,Packaging & Glass,RU,MY,GE19986958805,false,Signed,US,true,3/19/2024,Inactive
+413,Twitternation,Packaging & Glass,PL,BR,LL88610814739,true,,EU,true,5/15/2023,Inactive
+414,Zooveo,Raw Material Supplier,CN,,SJ93573490636,true,Pending,EU,true,3/4/2024,Inactive
+415,Livepath,Retail Tech,MA,PK,DA40093048501,false,Signed,EU,false,7/8/2025,Inactive
+416,Babbleopia,Raw Material Supplier,CN,MD,NS58831082329,true,Pending,EU,true,7/25/2024,Inactive
+417,Topicblab,Influencer Agency,JP,CN,MI49916095776,true,Pending,US,true,12/24/2024,Inactive
+418,Chatterpoint,CRO - Clinical Research,SE,CA,FB76687044082,true,Missing,US,false,2/18/2024,Active
+419,Lazz,CRO - Clinical Research,US,ID,AS57225047813,true,Signed,US,true,5/6/2023,Inactive
+420,Fliptune,CRO - Clinical Research,DO,VE,KH33740244087,false,Pending,US,true,7/22/2025,Active
+421,Jaloo,Raw Material Supplier,TH,HR,AZ41147082926,true,Signed,EU,true,4/17/2023,Inactive
+422,Youbridge,Influencer Agency,PH,CN,XZ29154492986,false,Signed,US,false,10/1/2025,Active
+423,Skinte,Influencer Agency,CN,CO,BJ93202607492,true,Pending,US,true,10/14/2025,Inactive
+424,Quatz,CRO - Clinical Research,CA,CN,DG04496944976,false,Signed,APAC,false,3/6/2023,Inactive
+425,Linktype,Packaging & Glass,CN,RU,MB71045467829,true,,APAC,false,8/6/2025,Inactive
+426,Jaxnation,CRO - Clinical Research,PT,CN,RM65317084721,true,Signed,EU,true,8/7/2023,Inactive
+427,Skinte,Raw Material Supplier,VN,PH,NC62319900536,true,Pending,APAC,true,7/3/2024,Inactive
+428,Innojam,CRO - Clinical Research,FR,MG,FD99991552672,false,Missing,APAC,true,11/7/2023,Active
+429,Eabox,Raw Material Supplier,RU,BR,YL64332701818,false,Signed,APAC,true,5/18/2025,Inactive
+430,Devbug,Influencer Agency,MA,RU,GA43009749242,true,Missing,APAC,false,7/31/2025,Inactive
+431,Meemm,CRO - Clinical Research,ID,BR,GJ59511283228,true,Missing,APAC,true,9/6/2025,Inactive
+432,Vimbo,Raw Material Supplier,PE,,XG68312712145,false,Pending,APAC,false,9/7/2025,Inactive
+433,Twitterbeat,Influencer Agency,US,NG,MG98070240706,false,Missing,APAC,false,10/25/2023,Inactive
+434,Mita,Raw Material Supplier,CN,KZ,UZ35143875201,false,Missing,US,true,3/12/2025,Inactive
+435,Linktype,Packaging & Glass,CN,EC,HT20191632745,false,Pending,APAC,false,12/20/2024,Inactive
+436,Voonder,CRO - Clinical Research,TN,RU,AN89373978435,true,,US,true,8/13/2025,Active
+437,Npath,Retail Tech,PL,SE,GH53883118080,false,,EU,false,5/1/2025,Active
+438,Brainverse,Retail Tech,BR,HN,QR17455255790,true,Signed,US,true,2/21/2024,Inactive
+439,Realfire,Influencer Agency,PL,US,LE79603238052,true,Signed,US,true,10/28/2025,Inactive
+440,Thoughtblab,Packaging & Glass,ID,NZ,LO38655801374,true,,APAC,false,12/2/2023,Inactive
+441,Dabshots,Raw Material Supplier,RU,CN,HM48497331880,true,Missing,APAC,false,8/17/2024,Inactive
+442,Fatz,Packaging & Glass,RU,PL,LE29327725296,true,Pending,US,true,2/3/2025,Inactive
+443,Topicware,Raw Material Supplier,FR,CN,CD16007486299,false,Missing,EU,true,8/4/2023,Inactive
+444,Jabbersphere,Packaging & Glass,FM,PK,WR12059337400,true,Signed,APAC,true,7/27/2024,Inactive
+445,Linkbuzz,CRO - Clinical Research,CN,BO,AP59460686356,false,Missing,US,true,7/24/2025,Active
+446,Jabberstorm,Retail Tech,TH,CN,BG68586335490,true,Signed,APAC,true,4/30/2023,Active
+447,Eidel,CRO - Clinical Research,ID,CN,XP80211809168,false,Pending,US,false,12/6/2024,Active
+448,Cogibox,Raw Material Supplier,CN,PH,XY34784813006,false,Missing,EU,true,10/31/2025,Active
+449,Einti,Raw Material Supplier,ID,JP,DZ88847200326,false,Signed,US,false,9/29/2024,Active
+450,Buzzdog,Retail Tech,CN,FI,BY65156999822,true,Signed,APAC,false,4/24/2025,Inactive
+451,Dabfeed,CRO - Clinical Research,ID,CN,XB74297156583,false,,APAC,true,9/13/2025,Active
+452,Realcube,Retail Tech,NE,BR,FU92582386282,true,Missing,EU,true,11/23/2024,Inactive
+453,Innojam,Retail Tech,CN,SY,QE13444465556,true,Signed,APAC,true,2/20/2025,Active
+454,Aimbu,CRO - Clinical Research,ID,MX,JM88717791988,false,,APAC,false,2/13/2025,Inactive
+455,Mita,Retail Tech,PE,CO,AY91191440838,false,Signed,APAC,true,3/4/2023,Inactive
+456,Kwimbee,Packaging & Glass,MX,AL,DR48448945340,false,Missing,EU,true,8/25/2024,Active
+457,Pixoboo,CRO - Clinical Research,CN,,QC69261173374,false,Signed,EU,true,3/4/2024,Inactive
+458,Brainsphere,Raw Material Supplier,ID,PK,JQ97990127210,false,Missing,APAC,true,1/26/2024,Inactive
+459,Yata,CRO - Clinical Research,UZ,UA,KP82309074889,false,Missing,US,true,8/6/2024,Active
+460,Gabtype,Influencer Agency,CZ,CN,RD43085635691,false,Pending,US,true,6/30/2023,Active
+461,Eadel,Influencer Agency,UA,UA,TY92003867038,false,Missing,US,true,2/27/2023,Active
+462,Feedmix,Packaging & Glass,SE,TN,DS54746119922,false,Signed,EU,true,1/17/2024,Inactive
+463,Lazzy,CRO - Clinical Research,ID,MN,XM07122662171,true,Pending,APAC,true,7/30/2024,Inactive
+464,Zava,Packaging & Glass,CN,,JE20997623056,false,Missing,US,false,6/11/2025,Inactive
+465,Wikibox,Influencer Agency,ID,SE,CE73298191411,false,Missing,EU,true,9/6/2023,Inactive
+466,Zooxo,Packaging & Glass,PT,,DH14195182104,false,Pending,EU,true,2/19/2023,Inactive
+467,Rhybox,Influencer Agency,PH,,ZK43958458858,true,Pending,APAC,false,3/26/2023,Inactive
+468,Agivu,Raw Material Supplier,PH,HN,KU59648670059,false,Missing,APAC,false,3/27/2024,Inactive
+469,Skiba,CRO - Clinical Research,PH,DO,IB68521642779,false,Pending,US,false,7/4/2023,Inactive
+470,Yamia,Influencer Agency,CN,BE,XX77444745129,true,Missing,EU,true,5/4/2025,Active
+471,Kazio,Retail Tech,ID,HN,NM63004150353,false,Missing,US,false,12/12/2024,Inactive
+472,Latz,Packaging & Glass,KR,ID,JE28897593886,false,Signed,US,false,12/15/2023,Inactive
+473,Babbleset,Packaging & Glass,IR,,PD38803703182,true,Pending,US,true,2/18/2024,Active
+474,Twitterbeat,Retail Tech,NG,JP,HY26887427301,true,Missing,EU,true,8/29/2024,Inactive
+475,Tazz,Raw Material Supplier,CN,AL,VQ93427261228,true,Missing,APAC,true,9/13/2023,Inactive
+476,Babbleopia,Influencer Agency,CA,CN,JP50357266495,true,Pending,APAC,false,10/22/2025,Active
+477,Rhynoodle,Retail Tech,PE,CN,BK29469319150,true,Pending,APAC,false,7/26/2025,Active
+478,Yotz,Retail Tech,SI,BR,MQ76136475898,true,Signed,APAC,false,11/6/2023,Inactive
+479,Tagfeed,CRO - Clinical Research,CN,ET,SK31323721974,true,Pending,US,true,9/30/2023,Inactive
+480,Jayo,Raw Material Supplier,PK,CN,UJ38682747529,false,Pending,US,false,12/10/2023,Inactive
+481,Mynte,Retail Tech,FR,CN,SP86458425616,true,Pending,EU,false,10/17/2024,Active
+482,Youbridge,Packaging & Glass,MA,CV,UK25416265772,false,Pending,EU,false,4/17/2024,Active
+483,Aivee,Raw Material Supplier,ID,RU,LP25647485278,true,Signed,US,true,7/22/2025,Inactive
+484,Thoughtbridge,CRO - Clinical Research,FR,ID,BI90644476480,true,Signed,EU,true,5/20/2024,Active
+485,Skaboo,Retail Tech,JP,DE,TR55056056503,false,Signed,EU,true,5/21/2023,Inactive
+486,Devcast,Raw Material Supplier,PT,PE,FR19047491836,false,Missing,EU,true,7/31/2024,Active
+487,Meedoo,Influencer Agency,BR,KR,FY68558085851,true,Pending,US,false,8/19/2024,Inactive
+488,Gigazoom,Packaging & Glass,HR,CN,FG96514509063,true,Missing,US,true,8/28/2023,Active
+489,Jetwire,CRO - Clinical Research,ID,RU,QT49896250665,false,Pending,US,true,11/14/2024,Active
+490,Brainverse,CRO - Clinical Research,ID,AR,QG06566802005,false,Missing,US,false,5/10/2025,Active
+491,Flashdog,Retail Tech,LT,MT,CG42542751973,false,Missing,US,false,3/21/2024,Active
+492,Lajo,Packaging & Glass,PE,BW,CZ38659055717,true,Missing,US,true,9/12/2024,Active
+493,Jabbersphere,Packaging & Glass,US,CN,CL08278169562,true,Pending,APAC,true,5/29/2025,Active
+494,Feedbug,Packaging & Glass,IR,CZ,QV42217208914,true,Missing,EU,false,5/16/2023,Active
+495,Shufflester,Packaging & Glass,PT,VE,WA06563048931,false,Missing,EU,false,2/29/2024,Inactive
+496,Jabbertype,CRO - Clinical Research,ID,YE,WU04189699710,true,Signed,US,true,3/25/2024,Active
+497,Oyoba,Raw Material Supplier,BR,CN,ER94249184844,true,Missing,US,false,8/10/2025,Active
+498,Twimbo,Packaging & Glass,PH,PL,NP67854592043,true,Pending,US,false,9/22/2024,Active
+499,Feedfish,Influencer Agency,MU,PT,DN35119440005,true,Pending,US,true,7/20/2025,Active
+500,Eazzy,Packaging & Glass,FI,ES,RB08463682512,false,,EU,false,3/29/2024,Active
