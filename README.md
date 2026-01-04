@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 As a Data Privacy & Compliance Analyst, I developed this tool to automate the risk assessment of 500+ global vendors (Raw material suppliers, Influencer agencies, R&D labs). 
 
-The goal is to protect the company from **GDPR fines** and **Financial fraud** by identifying non-compliant partners in real-time.
+The goal is to protect the company from **GDPR fines** and **financial fraud** by identifying non-compliant partners in real-time.
 
 ## 📊 Compliance Dashboard
 ![Compliance Dashboard](compliance_dashboard.png)
