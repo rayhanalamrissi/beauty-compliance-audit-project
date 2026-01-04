@@ -17,8 +17,8 @@ I implemented automated verification rules to flag anomalies:
 
 ## 🚀 Key Results
 * **Audit Population**: 500 Vendors.
-* **Compliance Rate**: 95.6% 
-* **Critical Risk Detection**: **4.4%** (22 partners identified for immediate remediation).
+* **Compliance Rate**: 95.4% 
+* **Critical Risk Detection**: **4.6%** (23 partners identified for immediate remediation).
 * **Efficiency**: Reduced audit cycle time from days to seconds through automation.
 
 ## 📁 Files in this Repository
